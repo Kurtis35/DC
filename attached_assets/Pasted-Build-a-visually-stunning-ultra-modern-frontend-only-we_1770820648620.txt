@@ -1,0 +1,127 @@
+Build a visually stunning, ultra-modern frontend-only website mockup for:
+
+D&C Motor It Gate Automation
+
+STRICT RULES:
+- Frontend only (HTML, CSS, minimal JS)
+- No backend
+- No database
+- No functional forms (UI only)
+- Fully responsive
+- Extremely modern UI
+- Premium, high-end tech company aesthetic
+- Must look like a R20,000+ custom website
+
+Design Direction:
+- Dark theme with electric blue + subtle neon accents
+- Glassmorphism effects
+- Soft glowing borders
+- Smooth gradients
+- Clean grid layout
+- High-end typography (bold headlines, sleek body text)
+- Micro-animations on hover
+- Scroll reveal animations
+- Subtle parallax in hero
+- Professional tech automation feel
+
+UI Style Inspiration:
+- Tesla
+- Stripe
+- Linear.app
+- Modern SaaS landing pages
+
+---
+
+PAGE STRUCTURE:
+
+1. HERO SECTION (Full screen)
+- Massive bold headline:
+  "Smart Gate Automation. Total Control."
+- Subheading:
+  "24/7 Professional Gate & Access Solutions in Cape Town"
+- 2 premium CTA buttons:
+   - Primary: "Get a Free Quote"
+   - Secondary: "Call 069 283 4876"
+- Dark blurred background with subtle animated gradient overlay
+- Floating glass cards showing:
+   ⭐ 5.0 Rating
+   📍 Parow, Cape Town
+   🕒 Open 24 Hours
+
+2. TRUST STRIP (Modern horizontal layout)
+- 5.0 Rating (20 Reviews)
+- 24/7 Emergency Service
+- Fast Response Time
+- Certified Technicians
+
+Use clean minimal icons with hover glow effects.
+
+3. SERVICES SECTION
+Use modern glass cards with soft shadow + hover lift animation.
+
+Services:
+- Gate Motor Installation
+- Gate Motor Repairs
+- Intercom Systems
+- Access Control
+- Sliding & Swing Gate Automation
+- Emergency Callouts
+
+Each card:
+- Minimal icon
+- Short clean description
+- Subtle glowing border on hover
+
+4. ABOUT SECTION
+Split layout:
+Left: Image placeholder with soft rounded corners
+Right: Clean typography explaining professionalism, reliability, and service excellence.
+
+Add animated counters:
+- 100+ Installations
+- 5-Star Rated
+- 24/7 Support
+
+5. WHY CHOOSE US
+Modern icon grid layout.
+Large spacing.
+Clean UI.
+Hover glow animation.
+
+6. SERVICE AREAS
+Styled map placeholder (visual only).
+Mention:
+- Parow
+- Bellville
+- Goodwood
+- Cape Town
+
+7. STRONG CTA SECTION
+Dark gradient background.
+Big bold text:
+"Need Urgent Gate Repairs?"
+Large glowing call button:
+069 283 4876
+
+8. FOOTER
+Minimal, clean, elegant.
+Address:
+27 Gardiner Rd, Parow, Cape Town, 7400
+Phone:
+069 283 4876
+Open 24 Hours
+
+---
+
+Design Requirements:
+- Use CSS Grid + Flexbox
+- Smooth scroll behavior
+- Fade-in on scroll animations
+- Button hover effects (glow + scale)
+- Rounded corners (12px–20px)
+- Spacious layout
+- Strong contrast
+- Premium spacing
+- Clean modern aesthetic
+
+The final result must look futuristic, trustworthy, and premium — like a high-end automation tech company.
